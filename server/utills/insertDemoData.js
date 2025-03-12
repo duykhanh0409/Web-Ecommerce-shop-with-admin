@@ -135,18 +135,30 @@ const demoProducts = [
     categoryId: "782e7829-806b-489f-8c3a-2689548d7153",
     inStock: 1,
   },
+  // {
+  //   id: "12",
+  //   title: "Mens trimmer",
+  //   price: 54,
+  //   rating: 5,
+  //   description: "This is trimmer description",
+  //   mainImage: "product12.webp",
+  //   slug: "mens-trimmer-demo",
+  //   manufacturer: "Gillete",
+  //   categoryId: "313eee86-bc11-4dc1-8cb0-6b2c2a2a1ccb",
+  //   inStock: 0,
+  // },
   {
-    id: "12",
-    title: "Mens trimmer",
-    price: 54,
+    id: "13",
+    title: "Nến Thơm APRICOT TEA",
+    price: 22,
     rating: 5,
-    description: "This is trimmer description",
-    mainImage: "product12.webp",
-    slug: "mens-trimmer-demo",
-    manufacturer: "Gillete",
-    categoryId: "313eee86-bc11-4dc1-8cb0-6b2c2a2a1ccb",
-    inStock: 0,
-  }
+    description: "Hồng trà thanh nhã với gỗ tuyết tùng mềm mại, gỗ đàn hương và hổ phách",
+    mainImage: "product1.webp",
+    slug: "nen-thom-apricot-tea",
+    manufacturer: "Nến Thơm",
+    categoryId: "2206a1b0-6369-491e-8b8b-9fdd5ad9912e",
+    inStock: 3,
+  },
 ];
 
 
@@ -207,9 +219,13 @@ const demoCategories = [
     id: "ss6412b4-22fd-4fbb-9741-d77580dfdcd2",
     name: "computers"
   },
+  // {
+  //   id: "fs6412b4-22fd-4fbb-9741-d77512dfdfa3",
+  //   name: "printers"
+  // },
   {
-    id: "fs6412b4-22fd-4fbb-9741-d77512dfdfa3",
-    name: "printers"
+    id: "2206a1b0-6369-491e-8b8b-9fdd5ad9912e",
+    name: "Nen-thom"
   }
 ];
 
